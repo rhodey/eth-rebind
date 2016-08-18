@@ -1,6 +1,6 @@
 # taker
 
-lol, todo: iptables permission setup
+Source code referenced in [Walking Past Same-origin Policy, NAT, and Firewall for Ethereum Wallet Control](https://medium.com/@rhodey/walking-past-same-origin-policy-nat-and-firewall-for-ethereum-wallet-control-30c29b73a057) article I wrote.
 
 ## Setup
 ```
