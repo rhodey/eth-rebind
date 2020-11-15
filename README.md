@@ -1,6 +1,5 @@
-# taker
-
-Source code referenced in [Walking Past Same-origin Policy, NAT, and Firewall for Ethereum Wallet Control](https://medium.com/@rhodey/walking-past-same-origin-policy-nat-and-firewall-for-ethereum-wallet-control-30c29b73a057) article I wrote.
+# ethereum-dns-rebing
+Source code for [Walking Past Same-origin Policy, NAT, and Firewall for Ethereum Wallet Control](http://rhodey.org/blog/ethereum-wallet-exploit) article I wrote.
 
 ## Setup
 ```
